@@ -1,1 +1,0 @@
-print("Neural Network from Scratch")
